@@ -1,5 +1,6 @@
 # Baymini
 
+![Baymini](baymini_photo.png)
 Baymini is an interactive robot developed for a Physical Computing University Module (2025). It responds to user interactions through a combination of sensing, mechanical movement and emotional states.
 
 ## Interactions
@@ -28,3 +29,5 @@ Baymini is an interactive robot developed for a Physical Computing University Mo
 ## Code
 
 The Arduino sketch controls Baymini's sensor inputs, emotional state logic, breathing movement, eyebrow expressions and wheel movement.
+
+[View the full Baymini project →](https://ikemenebeli.com/projects/baymini)
