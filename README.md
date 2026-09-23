@@ -1,7 +1,7 @@
 # Baymini
+Baymini is an interactive robot developed for a Physical Computing University Module (2025). It responds to user interactions through a combination of sensing, mechanical movement and emotional states.
 
 ![Baymini](baymini_photo.png)
-Baymini is an interactive robot developed for a Physical Computing University Module (2025). It responds to user interactions through a combination of sensing, mechanical movement and emotional states.
 
 ## Interactions
 
