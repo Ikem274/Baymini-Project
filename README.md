@@ -24,7 +24,7 @@ Baymini is an interactive robot developed for a Physical Computing University Mo
 
 * Wire
 * Servo
-* VL53L0X
+* [Pololu VL53L0X Arduino Library](https://github.com/pololu/vl53l0x-arduino)
 
 ## Code
 
